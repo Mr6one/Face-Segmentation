@@ -1,4 +1,4 @@
-Решение тестового задания на стажировку в Лабораторию Машинного Интеллекта МФТИ.
+Сравнение архитектур Deeplab-V3 и Unet в задаче сегментации лиц.
 
 * Отчет: [ notebooks/report.ipynb ](https://github.com/Montyblack/MILTestTask/blob/main/notebooks/Report.ipynb)
 * Обзор архитектуры моделей: [ notebooks/models_architecture.ipynb ](https://github.com/Montyblack/MILTestTask/blob/main/notebooks/models_architecture.ipynb)
